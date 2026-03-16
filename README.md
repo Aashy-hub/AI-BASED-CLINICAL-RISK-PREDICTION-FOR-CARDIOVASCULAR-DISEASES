@@ -94,24 +94,6 @@ The models were evaluated using:
 
 ---
 
-## Screenshots
-
-### Dataset Preview
-![Dataset](images/images_distribtion.png)
-
-### Correlation Heatmap
-![Heatmap](images/corelation_map.png)
-
-### Model Accuracy Comparison
-![Accuracy](images/.png)
-
-### Confusion Matrix
-![Confusion Matrix](images/conf.png)
-
-### ROC Curve
-![ROC Curve](images/roc_curve.png)
-
----
 
 
 
