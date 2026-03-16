@@ -109,8 +109,10 @@ The models were evaluated using:
 ![Confusion Matrix](conf.png)
 
 ### ROC
-![ROC].(ROC.png)
+![ROC](roc.png)
 
+### accuracyvsepochs
+![accuracyvsepochs](accuracyvsepochs.png)
 ---
 ---
 
