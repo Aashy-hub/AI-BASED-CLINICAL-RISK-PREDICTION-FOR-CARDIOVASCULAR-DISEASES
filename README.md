@@ -97,17 +97,19 @@ The models were evaluated using:
 ## Screenshots
 
 ### Dataset Preview
-![Dataset](images-distribution.png)
+![Dataset](dataset.png)
 
 ### Correlation Heatmap
-![Heatmap](corelation_map.png)
+![Heatmap](corelationmap.png)
 
 ### featuring map
-![Accuracy](featuring_map.png)
+![Accuracy](featuringmap.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](conf.png)
 
+### ROC
+![ROC].(ROC.png)
 
 ---
 ---
